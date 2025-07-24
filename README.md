@@ -52,6 +52,7 @@ CREATE TABLE doctors
     last_name  text,
     speciality text
 );
+```
 
 ## Problems and Solutions
 
@@ -61,4 +62,4 @@ CREATE TABLE doctors
 SELECT first_name, last_name, gender 
 FROM patients1 
 WHERE gender = 'M';
-
+```
