@@ -273,9 +273,9 @@ This SQL-based project provides a solid foundation for building **data-driven ho
 
 Hi, I'm **Shushant Kharate**, a 2nd-year B.Tech student in Information Technology at FCRIT Vashi, Navi Mumbai. I'm passionate about SQL, data analysis, and developing real-world database solutions through practical projects.
 
-- 📧 **Email**: [skharet215@gmail.com](mailto:skharet215@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/shushant-kharate-2b490a376](https://www.linkedin.com/in/shushant-kharate-2b490a376)  
-- 📱 **Phone**: +91 7208494564 *(optional – included for academic/professional queries)*
+-  **Email**: [skharet215@gmail.com](mailto:skharet215@gmail.com)  
+-  **LinkedIn**: [linkedin.com/in/shushant-kharate-2b490a376](https://www.linkedin.com/in/shushant-kharate-2b490a376)  
+-  **Phone**: +91 7208494564
 
 I'm always open to feedback, collaborations, or simply discussing cool tech ideas. Feel free to connect!
 
@@ -285,7 +285,7 @@ I'm always open to feedback, collaborations, or simply discussing cool tech idea
 
 Thank you for visiting this repository!  
 I hope this project proves useful in understanding SQL and practical database design using real-world healthcare scenarios.  
-If you liked the project or found it helpful, do consider giving it a ⭐ and sharing your feedback.
+If you liked the project or found it helpful, do consider sharing your feedback.
 
 ---
 
