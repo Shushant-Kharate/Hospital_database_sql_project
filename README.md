@@ -259,3 +259,33 @@ select first_name, last_name, 'Patient' as role from patients1
 union 
 select first_name, last_name, 'Doctor' from doctors1;
 ```
+## 📌 Findings and Conclusion
+
+- **Patient Demographics**: The database offers a balanced distribution of male and female patients across different provinces, allowing demographic-based healthcare planning.
+- **Allergy Trends**: Penicillin and Sulfa emerged as the most common allergies, emphasizing the need for careful allergy documentation in patient treatment plans.
+- **Doctor Specialization Mapping**: The project enables easy mapping of patients to doctors based on diagnosis and specialties, improving doctor-patient coordination.
+- **Admission Patterns**: Analysis of admission dates reveals trends in hospital activity, which can assist in optimizing staffing and resource management.
+- **Obesity Detection**: Calculating BMI using patient height and weight helps identify obese patients, supporting preventive healthcare strategies.
+
+This SQL-based project provides a solid foundation for building **data-driven hospital systems**, supporting smarter decision-making, better patient care, and improved administrative efficiency.
+
+## 👤 About the Author
+
+Hi, I'm **Shushant Kharate**, a 2nd-year B.Tech student in Information Technology at FCRIT Vashi, Navi Mumbai. I'm passionate about SQL, data analysis, and developing real-world database solutions through practical projects.
+
+- 📧 **Email**: [skharet215@gmail.com](mailto:skharet215@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/shushant-kharate-2b490a376](https://www.linkedin.com/in/shushant-kharate-2b490a376)  
+- 📱 **Phone**: +91 7208494564 *(optional – included for academic/professional queries)*
+
+I'm always open to feedback, collaborations, or simply discussing cool tech ideas. Feel free to connect!
+
+---
+
+## 🙏 Thank You
+
+Thank you for visiting this repository!  
+I hope this project proves useful in understanding SQL and practical database design using real-world healthcare scenarios.  
+If you liked the project or found it helpful, do consider giving it a ⭐ and sharing your feedback.
+
+---
+
