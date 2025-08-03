@@ -288,4 +288,3 @@ I hope this project proves useful in understanding SQL and practical database de
 If you liked the project or found it helpful, do consider sharing your feedback.
 
 ---
-
